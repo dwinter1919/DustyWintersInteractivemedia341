@@ -1,0 +1,17 @@
+div#box1 {
+  transform: skewX(20deg);
+}
+div#box2 {
+  transform: skewX(-20deg);
+}
+
+#box1 {
+	border: 100px double black;
+	padding: 25px;
+	display: inline-block;
+	margin: 0px;
+	position: relative;
+	left: 20%;
+	margin-top: 100px;
+}
+

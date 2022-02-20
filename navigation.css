@@ -1,0 +1,9 @@
+body {
+    background-image:
+    conic-gradient(#ff8a00, #e52e71);
+}
+h5, h3, ul {
+   font-family: Helvetica, sans-serif;
+    text-align: center;
+     color: white;
+}

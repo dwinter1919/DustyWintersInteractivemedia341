@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-image:
+   color rgb(246,240,206)
+    font-family: Georgia, serif;
+    font-size: 3px;
+}
+
+p {
+    text-shadow: 2px 4px 10px red;
+}
+.strikethrough {
+    text-decoration: line-through;
+  }
+
+h2:hover {
+    color: green;
+    text-decoration: underline overline;
+  }

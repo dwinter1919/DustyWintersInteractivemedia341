@@ -1,0 +1,7 @@
+body {
+    text-align: center;
+    background-image:
+    url(goose.png), radial-gradient(rgb(218, 250, 39), rgb(229, 248, 93), rgb(238, 245, 131), rgb(246, 243, 164), rgb(252, 240, 197));
+    font-family: Georgia, serif;
+    font-size: 3px;
+}
