@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+    color:
+    (rgb(63,44,107));
+    font-family: Georgia, serif;
+    font-size: 29px;
+}
+.inline-block {
+  display: inline-block;
+  padding:10px;
+  margin: 10px;
+  background: (rgb(63,44,107));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+h1 {
+	color: rgb(243,197,122)
+}
+p {
+	color: rgb(243,197,122);
+}
+
+@keyframes flash {
+	0% {
+	  transform: scale(0.5);
+	  opacity: 0;
+	}
+	30% {
+	  transform: scale(8.8);
+	  opacity: 1;
+	}
+	50% {
+	  transform: scale(20);
+	}
+  }
+  
+  #div1 {
+	animation: flash 5s;
+  }
+
+  @keyframes flash {
+	0% {
+	  transform: scale(0.5);
+	  opacity: 0;
+	}
+	30% {
+	  transform: scale(8.8);
+	  opacity: 1;
+	}
+	50% {
+	  transform: scale(20);
+	}
+  }
+  
+  
+  
+  #div2 {
+	animation: flash 10s;
+  }
+  @keyframes flash {
+	0% {
+	  transform: scale(0.5);
+	  opacity: 0;
+	}
+	30% {
+	  transform: scale(8.8);
+	  opacity: 1;
+	}
+	50% {
+	  transform: scale(20);
+	}
+  }
+  
+  
+  
+  #div3 {
+	animation: flash 15s;
+  }
+  

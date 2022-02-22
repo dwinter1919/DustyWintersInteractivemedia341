@@ -1,14 +1,27 @@
 body {
     background-color:
-     rgb(255,203,154)
+     black
 }
 a:link {
   text-decoration: none;
 }
 
-div, ul, a {
-  font-family: Helvetica;
-  font-size: 50px;
-  color: rgb(105,137,173);
-  text-align: center;
-  }
+  .giving {
+    font-family: Helvetica;
+    font-size: 10px;
+    color: rgb(105,137,173);
+    text-align: center;
+    }
+    .dustywinters {
+      font-family: Helvetica;
+      font-size: 20px;
+      color: rgb(105,137,173);
+      text-align: center;
+      }
+      .more {
+        font-family: Helvetica;
+        font-size: 300px;
+        color: rgb(105,137,173);
+        text-align: center;
+        }
+        
