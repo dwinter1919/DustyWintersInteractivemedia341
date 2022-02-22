@@ -1,9 +1,14 @@
 body {
-    background-image:
-    conic-gradient(#ff8a00, #e52e71);
+    background-color:
+     rgb(255,203,154)
 }
-h5, h3, ul {
-   font-family: Helvetica, sans-serif;
-    text-align: center;
-     color: white;
+a:link {
+  text-decoration: none;
 }
+
+div, ul, a {
+  font-family: Helvetica;
+  font-size: 50px;
+  color: rgb(105,137,173);
+  text-align: center;
+  }

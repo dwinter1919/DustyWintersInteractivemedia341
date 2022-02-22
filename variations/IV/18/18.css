@@ -1,0 +1,12 @@
+p {
+	border-style: solid;
+	border-color: black;
+	margin: 0 auto;
+	padding:20px;
+	width: 200px;
+	position: relative;
+}
+.text {
+	transform: rotate(180deg);
+	float: left;
+}

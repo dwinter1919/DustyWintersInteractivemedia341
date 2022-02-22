@@ -1,12 +1,20 @@
 body {
-    background-image:
-    conic-gradient(#ff8a00, #e52e71);
+  background-image:
+  conic-gradient(rgb(218, 250, 39), rgb(229, 248, 93), rgb(238, 245, 131), rgb(246, 243, 164), rgb(252, 240, 197));
 }
-h1, h2, ul {
-    text-align: center;
-  }
-  h1 {
-    font-family: Georgia, serif;
-    font-size: 50px;
-    color: white;
+p, h2 {
+font-family: Helvetica;
+font-size: 50px;
+background: linear-gradient(to right, rgb(242, 219, 127), rgb(245, 225, 147), rgb(248, 232, 167), rgb(250, 238, 186), rgb(252, 245, 206));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+text-align: center;
+}
+ul {
+  font-family: 'Franklin Gothic Medium';
+  font-size: 50px;
+  background: linear-gradient(to right, rgb(242, 219, 127), rgb(245, 225, 147), rgb(248, 232, 167), rgb(250, 238, 186), rgb(252, 245, 206));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  text-align: center;
   }
