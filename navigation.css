@@ -1,21 +1,22 @@
+
 body {
-    background-color:
-     black
-}
-a:link {
-  text-decoration: none;
+  background-color: black;
 }
 
-  h1 {
+a:link {
+text-decoration: none;
+}
+
+h1 {
+  font-family: "Helvetica Neue";
+  font-size: 10px;
+  color: rgb (105,137,173);
+  text-align: center;
+  }
+  h2 {
     font-family: "Helvetica Neue";
-    font-size: 10px;
-    color: rgb(105,137,173);
+    font-size: 20px;
+    color: rgb (105,137,173);
     text-align: center;
     }
-    h2 {
-      font-family: Helvetica;
-      font-size: 20px;
-      color: rgb(105,137,173);
-      text-align: center;
-      }
-     
+   
